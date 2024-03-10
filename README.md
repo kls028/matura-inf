@@ -6,12 +6,13 @@ Niestety, wiele zadań typu maturalnego z popularnych żródeł nadal posiada sz
 
 Przykładowe rozwiązania zadań z informatyki na poziomie rozszerzonym (również podstawowym z lat 2009 - 2017)
 
-Zakres objętego materiału :
+<b>Zakres objętego materiału: </b>
 - arkusze CKE(dostępne na stronie arkusze.pl)
 - zbiór zadań CKE "EGZAMIN MATURALNY INFORMATYKA Poziom rozszerzony. Materiały pomocnicze dla uczniów i nauczycieli 2015"
 
 
-Obecny stan:
+<b>OBECNY STAN</b>:
+
 stara formuła - matura rozszerzona				
 ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 -----|-------|--------------------|------------|---------------
