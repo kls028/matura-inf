@@ -1,4 +1,5 @@
--tu kiedyś będzie lepszy opis-
+/*tu kiedyś będzie lepszy opis*/
+
 Przykładowe rozwiązania zadań z informatyki na poziomie rozszerzonym (również podstawowym z lat 2009 - 2017)
 
 Zakres objętego materiału :
