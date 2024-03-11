@@ -1,0 +1,7 @@
+a) Iloœæ liczb parzystych: 495
+b) Najwiêksza suma cyfr: 187869866, Najmniejsza suma cyfr: 10010
+c) Liczby z ci¹giem rosn¹cym:
+2389
+23567
+123456789
+3468

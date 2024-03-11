@@ -1,0 +1,19 @@
+a) Iloœæ napisów o parzystej d³ugoœci: 504
+b) Iloœæ napisów zawieraj¹cych tak¹ sam¹ liczbê zer i jedynek: 110
+c) Iloœæ napisów sk³adaj¹cych siê z samych zer: 32
+c) Iloœæ napisów sk³adaj¹cych siê z samych jedynek: 50
+d) Iloœæ napisów o d³ugoœci 2: 43
+d) Iloœæ napisów o d³ugoœci 3: 38
+d) Iloœæ napisów o d³ugoœci 4: 37
+d) Iloœæ napisów o d³ugoœci 5: 57
+d) Iloœæ napisów o d³ugoœci 6: 53
+d) Iloœæ napisów o d³ugoœci 7: 68
+d) Iloœæ napisów o d³ugoœci 8: 78
+d) Iloœæ napisów o d³ugoœci 9: 103
+d) Iloœæ napisów o d³ugoœci 10: 83
+d) Iloœæ napisów o d³ugoœci 11: 90
+d) Iloœæ napisów o d³ugoœci 12: 86
+d) Iloœæ napisów o d³ugoœci 13: 81
+d) Iloœæ napisów o d³ugoœci 14: 68
+d) Iloœæ napisów o d³ugoœci 15: 59
+d) Iloœæ napisów o d³ugoœci 16: 56
