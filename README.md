@@ -2,7 +2,7 @@
 
 <b>MISJA - DOSTARCZENIE ROZWIĄZAŃ ZADAŃ W JĘZYKU PYTHON</b>
 
-Niestety, wiele zadań typu maturalnego z popularnych żródeł nadal posiada szablony odpowiedzi jedynie w języku C++. Celem tego repo ma być przede wszystkim ułatwienie życia uczniom (takim jak ja kiedyś :p) weryfikację swoich rozwiązań w języku Python 🐍.
+Niestety, wiele zadań typu maturalnego z popularnych żródeł nadal posiada szablony odpowiedzi jedynie w języku C++. Celem tego repo ma być przede wszystkim ułatwienie życia uczniom (takim jak ja kiedyś :p) tzn.umożliwienie weryfikacji swoich rozwiązań w języku Python 🐍.
 
 Przykładowe rozwiązania zadań z informatyki na poziomie rozszerzonym (również podstawowym z lat 2009 - 2017)
 
