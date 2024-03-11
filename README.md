@@ -46,3 +46,17 @@ ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 2021 |   		 |              			|			       |		  
 2022 |   		 |              			|			       |		  
 2023 |   		 |              			|			       |		  
+
+stara formuła - matura podstawowa
+nowa formuła - matura rozszerzona				
+ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
+-----|-------|--------------------|------------|---------------
+2009 |   		 |              			|			       |		  ✔️	  
+2010 |   		 |              			|			       |		  ✔️
+2011 |   		 |              			|			       |		  ✔️			  	
+2012 |   		 |              			|			       |		  ✔️	  
+2013 |   		 |              			|			       |		  ✔️
+2014 |   		 |              			|			       |		  ✔️
+2015 |   		 |              			|			       |		  
+2016 |   		 |              			|			       |		  
+2017 |   		 |              			|			       |		  
