@@ -56,8 +56,8 @@ ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 2012 |   		 |              			|			       |		  ✔️	  
 2013 |   		 |              			|			       |		  ✔️
 2014 |   		 |              			|			       |		  ✔️
-2015 |   		 |              			|			       |		  
-2016 |   		 |              			|			       |		  
+2015 |   		 |              			|			       |		  ✔️
+2016 |   		 |              			|			       |		  ✔️
 2017 |   		 |              			|			       |		  
 2018 |   		 |              			|			       |		  
 2019 |   		 |              			|			       |		  
