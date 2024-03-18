@@ -35,17 +35,18 @@ ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 2023 |   		 |              			|			       |		  ✔️
 
 nowa formuła - matura rozszerzona				
-ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
------|-------|--------------------|------------|---------------
-2015 |   		 |              			|			       |		  ✔️	  
-2016 |   		 |              			|			       |		  ✔️
-2017 |   		 |              			|			       |		  ✔️		  	
-2018 |   		 |              			|			       |		  ✔️  
-2019 |   		 |              			|			       |		  ✔️
-2020 |   		 |              			|			       |		  ✔️
-2021 |   		 |              			|			       |		  
-2022 |   		 |              			|			       |		  
-2023 |   		 |              			|			       |		  
+ROK	  |Teoria |arkusz kalkulacyjny |baza danych |programowanie
+------|-------|--------------------|------------|---------------
+2015  |   		|              			 |			      |		  ✔️	  
+2016  |   		|              			 |			      |		  ✔️
+2016c |   		|              			 |			      |		  
+2017  |   		|              			 |			      |		  ✔️		  	
+2018  |   		|              			 |			      |		  ✔️  
+2019  |   		|              			 |			      |		  ✔️
+2020  |   		|              			 |			      |		  ✔️
+2021  |   		|              			 |			      |		  
+2022  |   		|              			 |			      |		  
+2023  |   		|              			 |			      |		  
 
 stara formuła - matura podstawowa		
 ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
