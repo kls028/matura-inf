@@ -30,7 +30,7 @@ ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 2016 |   		 |              			|			       |		 
 2017 |   		 |              			|			       |		  ✔️			  	
 2018 |   		 |              			|			       |		  ✔️	  
-2019 |   		 |              			|			       |		  
+2019 |   		 |              			|			       |		  ✔️
 2020 |   		 |              			|			       |		  ✔️
 2023 |   		 |              			|			       |		  ✔️
 
