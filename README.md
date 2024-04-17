@@ -16,8 +16,8 @@ Przykładowe rozwiązania zadań z informatyki na poziomie rozszerzonym (równie
 stara formuła - matura rozszerzona				
 ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 -----|-------|--------------------|------------|---------------
-2005 |   		 |              			|			       |		  ✔️
-2006 |   		 |              			|			       |		  ✔️
+2005 |  ✔️   |        ✔️      		|			✔️     |		  ✔️
+2006 |  ✔️	 |          ✔️    		|			 ✔️    |		  ✔️
 2007 |   		 |              			|			       |		  ✔️			  
 2008 |   		 |              			|			       |		  ✔️			  
 2009 |   		 |              			|			       |		  ✔️			  
