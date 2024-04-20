@@ -46,7 +46,7 @@ ROK	  |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 2020  |   		|              			 |			      |		  ✔️
 2021  |   		|              			 |			      |		  ✔️
 2022  |   		|              			 |			      |		  ✔️
-2023  |   		|              			 |			      |		  
+2023  |   		|              			 |			      |		  ✔️
 
 stara formuła - matura podstawowa		
 ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
