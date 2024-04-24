@@ -31,7 +31,7 @@ ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 2017 |  ✔️	 		 |              ✔️				|			  ✔️	     |		  ✔️			  	
 2018 |   		 |              			|			       |		  ✔️	  
 2019 |   		 |              			|			       |		  ✔️
-2020 |   		 |              			|			       |		  ✔️
+2020 |  ✔️ 		 |          ✔️    			|			   ✔️    |		  ✔️
 2023 |   		 |              			|			       |		  ✔️
 
 nowa formuła - matura rozszerzona				
