@@ -37,7 +37,7 @@ ROK	 |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 nowa formuła - matura rozszerzona				
 ROK	  |Teoria |arkusz kalkulacyjny |baza danych |programowanie
 ------|-------|--------------------|------------|---------------
-2015  |   		|              			 |			      |		  ✔️	  
+2015  |  ✔️	|      ✔️     			 |		✔️      |		  ✔️	  
 2016  |   		|              			 |			      |		  ✔️
 2016c |  ✔️	|        ✔️ 		     |		✔️	    |		  ✔️
 2017  |   		|              			 |			      |		  ✔️		  	
